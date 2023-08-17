@@ -11,7 +11,7 @@
   
 <p align="center">  
   <a href="https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S">
-    <img alt=Support height="300" src="https://i.imgur.com/bFEC7lC.jpeg](https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg">
+    <img alt=Support height="300" src="https://i.imgur.com/bFEC7lC.jpeg">
    
 </a> 
     
