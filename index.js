@@ -1,4 +1,4 @@
-console.log('✅ STARTING...')
+onsole.log('✅ STARTING...')
 
 import { join, dirname } from 'path'
 import { createRequire } from 'module';
