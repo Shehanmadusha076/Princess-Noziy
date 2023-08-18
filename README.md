@@ -83,8 +83,8 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 
 ## Special Thanks To
-- 1. 💭 Xeon ( cheems wa owner )
-- 2. 💭 Guru ( guru wa owner )
-- 3. 💭 Mr nima ( Elisa wa owner )
-- 4. 💭 Abhishek ( Abhishek wa owner )
+𝐷𝛪𝛮𝑈𝑊𝛥
+[![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001) 
+----|----|----|----|----|----
+[FantoX](https://github.com/FantoX001)  
 ---------
