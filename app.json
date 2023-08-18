@@ -1,9 +1,9 @@
 {
-  "name": "QUEEN HENTAI",
-  "description": "Customizable WhatsApp Bot",
+  "name": "Princess Noziy",
+  "description": "𝑇𝛨𝛥𝛮𝛫𝑆 𝑇𝛩 𝐷𝛪𝛮𝑈𝑊𝛥",
   "repository": "https://github.com/dinuwah/QUEEN-HENTAI",
-  "logo": "https://i.ibb.co/T1DqdYz/thumbnail.jpg",
-  "keywords": ["bot", "whatsapp", "whatsapp-bot", "QUEEN HENTAI", "GURU-bot-md", "GURU-bot"],
+  "logo": "https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg",
+  "keywords": ["bot", "whatsapp", "whatsapp-bot", "QUEEN HENTAI", "𝐷𝛪𝛮𝑈𝑊𝛥", "Noziy"],
   "buildpacks": [
     {
       "url": "heroku/nodejs"
