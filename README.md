@@ -80,10 +80,14 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
   
 ## DEPLOY IN RENDER    
 [![Deploy on RENDER](https://img.shields.io/badge/render%20Account-green?style=for-the-badge&logo=render)](https://dashboard.render.com/registerundefined)  
+<br><br>
 
+---
+<br>
 
-## Special Thanks To
-𝐷𝛪𝛮𝑈𝑊𝛥
+<h2 align="center">🔰 Special Thanks To 🔰
+</h2>
+
 [![Fantox](https://github.com/FantoX001.png)](https://github.com/FantoX001) 
 ----|----|----|----|----|----
 [FantoX](https://github.com/FantoX001)  
