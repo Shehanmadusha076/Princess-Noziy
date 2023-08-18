@@ -91,5 +91,6 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 <h2 align="center">🔰 Special thanks to 🔰
 </h2>
 
-[![𝐷𝛪𝛮𝑈𝑊𝛥](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Suddi](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Samee](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Nima](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![Jay](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
+[![Dinuwa](https://github.com/FantoX001.png)](https://github.com/FantoX001)  | [![Suddi](https://github.com/Ahmii-kun.png)](https://github.com/Ahmii-kun) | [![Samee](https://github.com/pratyush4932.png)](https://github.com/pratyush4932) | [![Devime](https://github.com/Devime69.png)](https://github.com/Devime69) | [![Nima](https://github.com/Kai0071.png)](https://github.com/Kai0071) | [![Jay](https://github.com/jayjay-ops.png)](https://github.com/jayjay-ops)
 ----|----|----|----|----|----
+[𝐷𝛪𝛮𝑈𝑊𝛥](https://github.com/dinuwah)
