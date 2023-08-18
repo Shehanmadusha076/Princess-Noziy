@@ -1,4 +1,4 @@
-{ pkgs }: {
+{ pkg }: {
     deps = [
         pkgs.sudo
         pkgs.nodejs
