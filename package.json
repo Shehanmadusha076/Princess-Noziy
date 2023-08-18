@@ -25,16 +25,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/dinuwah/HENTAI-QUEEN",
+    "homepage": "https://github.com/ShenuhX/Princess-Noziy",
     "author": {
-        "name": "Dinuwa Official²⁰²³"
+        "name": "Noziy Official²⁰²³"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/dinuwah/HENTAI-QUEEN.git"
+        "url": "git+https://github.com/ShenuhX/Princess-Noziy.git"
     },
     "bugs": {
-        "url": "https://github.com/dinuwah/HENTAI-QUEEN/issues"
+        "url": "https://github.com/ShenuhX/Princess-Noziy/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
