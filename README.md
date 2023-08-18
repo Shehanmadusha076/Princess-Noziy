@@ -91,6 +91,6 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 <h2 align="center">🔰 Special thanks to 🔰
 </h2>
 
-[![Dinuwa](https://i.imgur.com/2Zoed8h.jpg)](https://github.com/dinuwah)  | [![Shenuwa](https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg)](https://github.com/dinuwah) | [![Yumma](https://i.imgur.com/tCllTw9.jpg)](https://github.com/dinuwah) | [![Nima](https://github.com/Kai0071.png)](https://github.com/dinuwah) | [![Jay](https://github.com/jayjay-ops.png)](https://github.com/dinuwah)
+[![Dinuwa](https://i.imgur.com/2Zoed8h.jpg)](https://github.com/dinuwah)  | [![Shenuwa](https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg)](https://github.com/dinuwah) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932)  | [![Yumma](https://i.imgur.com/tCllTw9.jpg)](https://github.com/dinuwah) | [![Nima](https://github.com/Kai0071.png)](https://github.com/dinuwah) | [![Jay](https://github.com/jayjay-ops.png)](https://github.com/dinuwah)
 ----|----|----|----|----|----
 [𝐷𝛪𝛮𝑈𝑊𝛥](https://github.com/dinuwah)  | [Shenuwa](https://github.com/ShenuhX) 
