@@ -4,7 +4,7 @@ let handler = async (m, { conn, usedPrefix, command, args, isOwner, isAdmin, isR
 	
 const sections = [
    {
-	title: `💝 Queen Hentai 💝`,
+	title: `Princess-Noziy`,
 	rows: [
 	{title: "🇱🇰 | Welcome", rowId: `${usedPrefix + command} welcome`},
 	{title: "🇱🇰 | Public", rowId: `${usedPrefix + command} public`},
@@ -25,10 +25,10 @@ const sections = [
 ]
 
 const listMessage = {
-  text: '\nThis is the list of 💝 Queen Hentai 💝 Now you can turn on and off it',
+  text: '\nThis is the list of Princess-Noziy Now you can turn on and off it',
   footer: igfg,
-  title: `💝 Queen Hentai 💝`,
-  buttonText: "💝 Click here 💝",
+  title: `Princess-Noziy`,
+  buttonText: "Princess-Noziy",
   sections
 }
 
@@ -211,7 +211,7 @@ const listMessage = {
 */
 
 m.reply(`
-😁 *${type}* ££££ *${isEnable ? '*INSTALL*' : '*UNINSTALL*'}* ${isAll ? 'for *💝 Queen Hentai 💝* bot' : isUser ? '' : 'for *💝 Queen Hentai 💝* bot'}
+😁 *${type}* 👸 *${isEnable ? '*Enable*' : '*Disable*'}* ${isAll ? 'for *👸 Princess-Noziy 👸* bot' : isUser ? '' : 'for *👸 Princess-Noziy 👸* bot'}
 `.trim()) 
 
 }
