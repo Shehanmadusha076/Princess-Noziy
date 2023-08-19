@@ -26,18 +26,18 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 
 
-1. 🇱🇰 Fork Princess Noziy Git 🇱🇰
+1.  Fork Princess Noziy Git 
     <br>
-<a href='https://github.com/ShenuhX/Princess-Noziy' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://github.com/ShenuhX/Princess-Noziy' target="_blank"><img alt='💝Fork Repo💝' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 2. Scan The QR And Upload Noziy.data.json To Your Fork (Will Recieve It On Your Bot Number After Scanning)
     <br>
-<a href='https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='💝SCAN QR💝' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=red'/></a>
+<a href='https://replit.com/@ShenuhX/Princess-Noziy-QR-CODE-GENERATOR?v=1' target="_blank"><img alt='💝SCAN QR💝' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 
 ## ``Support Group``
-[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S) 
+[![WHATSAPP](https://img.shields.io/badge/Support%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/CtlYIXh97AF11ZiN1yaHvh) 
 ---------
 
 ## ```HEROKU DEPLOYMENT```
@@ -50,16 +50,10 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 ## ```STEPS TO DEPLOY ON HEROKU```
 
 - 1. Fork this repo (Don't forget to give a star)
-- 2. ***Get [SESSION-ID](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- 2. ***Get [SESSION-ID](https://chat.whatsapp.com/CtlYIXh97AF11ZiN1yaHvh) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
 - 3. Upload your session file.
 - 4. Simply click Deploy to heroku button above
 
-## ```QR SCAN```
-# 
-
-* [`1️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1?output%20only=1&lite=1#thumbnail.jpg)
-* [`2️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1)
-* [`3️⃣ 𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@kafodip563/QUEEN-HENTAI-QR-CODE-GENERATOR?v=1?output%20only=1&lite=1#thumbnail.jpg)  
 ---------
   
 ## DEPLOY IN KOYEB    
@@ -93,4 +87,6 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 
 [![Dinuwa](https://i.imgur.com/2Zoed8h.jpg)](https://github.com/dinuwah)  | [![Shenuwa](https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg)](https://github.com/dinuwah) | [![Pratyush](https://github.com/pratyush4932.png)](https://github.com/pratyush4932)  | [![Yumma](https://i.imgur.com/tCllTw9.jpg)](https://github.com/dinuwah) | [![Nima](https://github.com/Kai0071.png)](https://github.com/dinuwah) | [![Jay](https://github.com/jayjay-ops.png)](https://github.com/dinuwah)
 ----|----|----|----|----|----
-[𝐷𝛪𝛮𝑈𝑊𝛥](https://github.com/dinuwah)  | [Shenuwa](https://github.com/ShenuhX) 
+[𝐷𝛪𝛮𝑈𝑊𝛥](https://github.com/dinuwah)  | [Shenuwa](https://github.com/ShenuhX)  | [Yumma](https://github.com/dinuwah)
+
+src="https://telegra.ph/file/759b6815a99d9fb5cd472.mp4">
