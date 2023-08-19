@@ -89,7 +89,7 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 ----|----|----|----|----|----
 [𝐷𝛪𝛮𝑈𝑊𝛥](https://github.com/dinuwah)  | [Shenuwa](https://github.com/ShenuhX)  | [Yumma](https://github.com/dinuwah)
 
-<vid alt=Support height="300" src="https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg">
+<img alt=Support height="300" src="https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg">
    
 </a> 
     
