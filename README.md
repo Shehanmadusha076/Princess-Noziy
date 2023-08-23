@@ -73,9 +73,6 @@ Princess Noziy Multi Device 18+ Adult Video Downloader Whatsapp Bot.
 ## DEPLOY IN COOLIFY    
 [![Deploy on COOLIFY](https://img.shields.io/badge/coolify%20Account-yellow?style=for-the-badge&logo=coolify)](http://65.21.52.72:3000/register)  
 
-## ```DEPLOY IN REPLIT```
-[![Run on Repl.it](https://github.com/ShenuhX/Princess-Noziy)](https://replit.com)
-
 ## ```DEPLOY IN MOGENIUS```
 [![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
   
