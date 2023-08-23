@@ -12,8 +12,8 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-global.mods = ['94740804536','94740804536'] 
-global.prems = ['94740804536', '94740804536', '94740804536']
+global.mods = ['94762000126','94762000126'] 
+global.prems = ['94762000126', '94762000126', '94762000126']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -52,10 +52,10 @@ global.premium = 'true'
 global.packname = 'Princess Noziy Created By Noziy Official²⁰²³' 
 global.author = '💝 Noziy Official²⁰²³ 💝' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Noziy Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.dygp = 'https://chat.whatsapp.com/CtlYIXh97AF11ZiN1yaHvh'
 global.fgsc = 'https://github.com/ShenuhX/Princess-Noziy' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.fgyt = 'https://chat.whatsapp.com/CtlYIXh97AF11ZiN1yaHvh'
+global.fgpyp = 'https://chat.whatsapp.com/CtlYIXh97AF11ZiN1yaHvh'
 global.fglog = 'https://telegra.ph/file/d920bdeb02ec2d9da14a9.jpg' 
 
 
